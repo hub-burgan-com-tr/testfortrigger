@@ -1,3 +1,4 @@
 # testfortriggermanage
 managing
 trigger
+manage
