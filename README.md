@@ -1,4 +1,4 @@
-# testfortriggermanage
+d# testfortriggermanage
 managing
 triggerdsd
 manage
